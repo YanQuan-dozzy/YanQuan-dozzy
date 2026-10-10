@@ -1,123 +1,173 @@
 <div align="center">
 
-# Hi there! 👋 你好，我是 YanQuan
+<!-- Banner Header: Cyber / Tech Mint Gradient Style -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=03c9a9,0a192f&height=180&section=header&text=YanQuan&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineering%20Learner%20%7C%20AI%20Agent%20%C2%B7%20Network%20%C2%B7%20Pentest&descAlignY=58&descSize=16&descColor=03c9a9" width="100%" alt="Header Banner" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=03C9A9&center=true&vCenter=true&width=720&lines=Hi%2C+I+am+YanQuan%2C+a+Software+Engineering+Learner;Building+AI-agent+tools+for+networking+%26+security;TypeScript+%C2%B7+Python+%C2%B7+Electron;Always+learning%2C+always+shipping)](https://github.com/DenverCoder1/readme-typing-svg)
+<!-- Dynamic Typing SVG -->
+<a href="https://github.com/YanQuan-dozzy">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1000&color=03C9A9&center=true&vCenter=true&width=750&lines=Hi+there!+%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF+YanQuan+%F0%9F%91%8B;Building+AI-Agent+tools+for+real-world+workflows+%F0%9F%A4%96;Network+automation+%26+CCIE+routing+%26+switching+%F0%9F%8C%90;AI-driven+penetration+testing+explorer+%F0%9F%94%90;TypeScript+%C2%B7+Python+%C2%B7+Electron+%C2%B7+Local-first+%F0%9F%9B%A0%EF%B8%8F" alt="Typing SVG" />
+</a>
 
-一名**软件工程学习者**，专注 **AI Agent 工具、网络工程自动化与 AI 渗透测试**，喜欢把 LLM 接进真实的工程场景，做「下载即用」的本地工具。
-A software engineering learner focused on AI-agent tooling, network automation and AI-driven pentesting — turning ideas into practical, local-first tools.
+<p align="center">
+  <b>专注于把 LLM 接进真实的工程场景，打造「离线可用、隐私优先、下载即用」的本地自动化工具</b><br>
+  <sub>Turning ideas into practical, local-first tools for networking, agent workflows and security.</sub>
+</p>
 
-</div>
-
-## About Me 🎓 / 关于我
-
-- 🎓 **软件工程学习者 / Software Engineering Learner** —— 在真实项目里打磨编码能力，记录自己的编程成长
-- 🧩 专注 **AI Agent 工具、网络工程自动化与 AI 渗透测试**，把 LLM 接入真实工程场景
-- 🤖 热衷 **MCP / AI 工作流**：让 AI 自主完成扫描、配置下发、验证与报告生成等重复工作
-- 🌐 关注 **网络工程（路由交换 / CCIE 方向）**，喜欢做网络实验与命令行自动化
-- 🔐 **AI 渗透测试新手 / AI-Driven Pentest Newbie** —— 用 Agent / LLM 驱动渗透流程：侦察 → 漏洞验证 → 攻击链 → 报告
-- 🛠️ 相信 **Local-first**：数据留在本机、隐私优先、离线可用
-- 📦 享受把想法一路做到「下载即用」的完整过程：设计 → 编码 → 打包 → 分发
-
-## Tech Stack 💻 / 技术栈
-
-<div align="center">
-
-[![TypeScript](https://img.shields.io/badge/TypeScript-03C9A9?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![React](https://img.shields.io/badge/React-03C9A9?style=flat-square&logo=react&logoColor=white)](https://react.dev/)
-[![Electron](https://img.shields.io/badge/Electron-03C9A9?style=flat-square&logo=electron&logoColor=white)](https://www.electronjs.org/)
-[![Node.js](https://img.shields.io/badge/Node.js-03C9A9?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![Vite](https://img.shields.io/badge/Vite-03C9A9?style=flat-square&logo=vite&logoColor=white)](https://vitejs.dev/)
-[![Python](https://img.shields.io/badge/Python-03C9A9?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-03C9A9?style=flat-square&logo=javascript&logoColor=white)](https://developer.mozilla.org/docs/Web/JavaScript)
-[![PHP](https://img.shields.io/badge/PHP-03C9A9?style=flat-square&logo=php&logoColor=white)](https://www.php.net/)
-[![HTML5](https://img.shields.io/badge/HTML5-03C9A9?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-03C9A9?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/docs/Web/CSS)
-[![Git](https://img.shields.io/badge/Git-03C9A9?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
-[![Java](https://img.shields.io/badge/Java-03C9A9?style=flat-square&logo=openjdk&logoColor=white)](https://www.java.com/)
-[![C](https://img.shields.io/badge/C-03C9A9?style=flat-square&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_%28programming_language%29)
-[![MySQL](https://img.shields.io/badge/MySQL-03C9A9?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![Linux](https://img.shields.io/badge/Linux-03C9A9?style=flat-square&logo=linux&logoColor=white)](https://www.kernel.org/)
-[![Bash](https://img.shields.io/badge/Bash-03C9A9?style=flat-square&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Actively_Building-03C9A9?style=flat-square&logo=githubsponsors&logoColor=white" alt="Status" />
+  <img src="https://img.shields.io/badge/Focus-AI_Agent_%26_Network_Security-0a192f?style=flat-square&logo=target&logoColor=03C9A9" alt="Focus" />
+  <img src="https://komarev.com/ghpvc/?username=YanQuan-dozzy&label=Profile%20Views&color=03c9a9&style=flat-square" alt="Views" />
+</p>
 
 </div>
 
-主力用 **TypeScript + React + Electron** 构建桌面应用，用 **Python** 写 AI Agent 与网络自动化工具，也用 Java 做后端与工具开发、PHP 写小型 Web 工具；日常借助 Linux / Bash 完成环境与自动化操作。
+---
 
-## Tools & Interests 🎨 / 工具与兴趣
+### 📌 概览与方向 / Overview & Focus
+
+<!-- 双栏表格布局：左侧核心方向，右侧个人哲学 -->
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+#### 🎯 核心技术方向
+- 🤖 **AI Agent & MCP 工作流**
+  - 让模型自主完成扫描、配置下发、验证与报告生成等重复性工程工作。
+- 🌐 **网络工程与自动化**
+  - 关注路由交换（CCIE 方向），实践真实拓扑实验与命令行脚本自动化。
+- 🔐 **AI 驱动渗透测试 (AI Pentest)**
+  - 探索 Agent 赋能渗透生命周期：信息侦察 → 漏洞验证 → 攻击链 → 自动化报告。
+- 🛠️ **Local-First 桌面开发**
+  - 基于 Electron + React 构建本地优先应用，数据留存本机，保护隐私。
+
+</td>
+<td width="50%" valign="top">
+
+#### 💡 工程与学习哲学
+- 🎓 **真实项目驱动**
+  - 不做纯理论笔记，在真实工程项目里打磨架构设计与编码鲁棒性。
+- 📦 **End-to-End 交付体验**
+  - 享受从「需求设计 ➔ 代码实现 ➔ 架构打包 ➔ 分发交付」的完整闭环。
+- 🪟 **桌面端最佳实践**
+  - 钻研安全 IPC 通信、多进程隔离、防篡改打包与热更新机制。
+- 📝 **知行合一**
+  - 沉淀踩坑记录与知识库，打造属于自己的个人工程技术武器库。
+
+</td>
+</tr>
+</table>
+
+---
+
+### 💻 技术栈与工具体系 / Tech Stack
 
 <div align="center">
 
-[![VS Code](https://img.shields.io/badge/VS_Code-03C9A9?style=flat-square&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-03C9A9?style=flat-square&logo=github&logoColor=white)](https://github.com/YanQuan-dozzy)
-[![MCP](https://img.shields.io/badge/MCP-03C9A9?style=flat-square)](https://modelcontextprotocol.io/)
-[![Figma](https://img.shields.io/badge/Figma-03C9A9?style=flat-square&logo=figma&logoColor=white)](https://www.figma.com/)
-[![Notion](https://img.shields.io/badge/Notion-03C9A9?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/)
-[![Docker](https://img.shields.io/badge/Docker-03C9A9?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
+<!-- 分组展示：前端与桌面端 -->
+<p><b>🌐 桌面端与前端 / Desktop & Frontend</b></p>
+
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://react.dev/)
+[![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)](https://www.electronjs.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)](https://vitejs.dev/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/)
+
+<!-- 分组展示：后端与系统脚本 -->
+<p><b>⚡ 后端与系统工程 / Backend & Systems</b></p>
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://www.java.com/)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)](https://www.php.net/)
+[![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://www.kernel.org/)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
+
+<!-- 分组展示：AI、安全与效能工具 -->
+<p><b>🤖 AI 架构、网络安全与生产力 / AI, Pentest & DevOps</b></p>
+
+[![MCP](https://img.shields.io/badge/MCP-Protocol-03C9A9?style=flat-square&logo=anthropic&logoColor=white)](https://modelcontextprotocol.io/)
+[![OWASP](https://img.shields.io/badge/OWASP-Security-000000?style=flat-square&logo=owasp&logoColor=white)](https://owasp.org/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
+[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)](https://www.figma.com/)
+[![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/)
 
 </div>
 
-喜欢折腾 AI Agent 与自动化方案：用 **MCP** 把模型接进真实工作流，用 Figma 梳理界面、Notion 沉淀知识、Docker 管理环境，让工具的边界始终围绕「解决问题」。
+---
 
-## AI-Driven Pentest 🔐 / AI 驱动的渗透测试
+### 🔐 探索实践：AI 驱动渗透测试 / AI-Driven Pentest
 
-<div align="center">
+> 🚀 **理念**：打破传统单一工具栏的手工操作，探索利用 **LLM × 专属 Agent 编排** 赋能现代渗透生命周期。
 
-![AI Red Teaming](https://img.shields.io/badge/AI_Red_Teaming-03C9A9?style=flat-square)
-![Agentic Pentest](https://img.shields.io/badge/Agentic_Pentest-03C9A9?style=flat-square)
-![Attack Chain](https://img.shields.io/badge/Attack_Chain_Building-03C9A9?style=flat-square)
-![Autonomous Recon](https://img.shields.io/badge/Autonomous_Recon-03C9A9?style=flat-square)
-![PoC Automation](https://img.shields.io/badge/PoC_Automation-03C9A9?style=flat-square)
-![Report Automation](https://img.shields.io/badge/Report_Automation-03C9A9?style=flat-square)
-[![OWASP](https://img.shields.io/badge/OWASP-03C9A9?style=flat-square&logo=owasp&logoColor=white)](https://owasp.org/)
-[![MCP](https://img.shields.io/badge/MCP-03C9A9?style=flat-square)](https://modelcontextprotocol.io/)
-[![Python](https://img.shields.io/badge/Python-03C9A9?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+```text
+┌─────────────────┐       ┌─────────────────┐       ┌─────────────────┐       ┌─────────────────┐
+│  🔍 智能资产侦察  │ ────> │  🧪 漏洞自动验证  │ ────> │  ⛓️ 攻击链动态生成  │ ────> │  📑 报告与加固建议  │
+│ Reconnaissance  │       │  Vulnerability  │       │   Attack Chain  │       │ Remediation Rep │
+└─────────────────┘       └─────────────────┘       └─────────────────┘       └─────────────────┘
+```
 
-</div>
+<details>
+<summary><b>🔍 点击展开：AI 渗透工作流核心设计点</b></summary>
+<br>
 
-我是**渗透测试新手 / Pentest Newbie**，正在走 **用 AI Agent 做渗透测试** 这条新路线：让大模型自主完成信息收集、漏洞验证、攻击链梳理与报告生成，探索 LLM × 安全的结合，而不是停留在传统工具栈。
-An emerging-direction learner using AI agents to automate penetration testing — recon, vulnerability verification, attack-chain building and reporting.
+1. **Recon 侦察阶段**：通过 Agent 解析网络拓扑与指纹信息，自动剪枝无效目标。
+2. **Vuln 验证阶段**：基于 MCP 驱动本地安全工具，LLM 自主分析响应包，验证 PoC 有效性。
+3. **Attack Chain 编排**：动态推演横向移动路径，评估高危弱点组合攻击面。
+4. **Report 生成**：全自动化归纳测试过程，生成标准 CVSS 评分与修复防护指引。
 
-## Current Focus 🎯 / 近期关注
+</details>
 
-- 🤖 打磨 **AI Agent / MCP** 工具，让 AI 自主完成扫描、配置下发、验证与报告生成
-- 🌐 学习 **网络工程（路由交换 / CCIE 方向）** 与网络自动化
-- 🔐 用 **AI Agent 做渗透测试**：自动化侦察、漏洞验证、攻击链构建与报告生成
-- 🧱 打磨桌面端工程实践：安全 IPC、进程隔离、打包与自动更新
-- 🌱 学习新工具、新框架，把有趣的想法尽快做成可用的产品
-- ✍️ 记录开发中的踩坑与经验，沉淀自己的知识体系
+---
 
-## GitHub Stats 📊
+### 📊 GitHub 仪表盘 / Statistics
 
 <div align="center">
 
+<table border="0">
+  <tr>
+    <td align="center" valign="middle">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=YanQuan-dozzy&show_icons=true&count_private=true&hide_border=true&title_color=03c9a9&icon_color=03c9a9&text_color=c9d1d9&bg_color=0d1117">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=YanQuan-dozzy&show_icons=true&count_private=true&hide_border=true&title_color=028f7a&icon_color=028f7a&text_color=24292f&bg_color=ffffff">
+        <img src="https://github-readme-stats.vercel.app/api?username=YanQuan-dozzy&show_icons=true&count_private=true&hide_border=true&title_color=03c9a9&icon_color=03c9a9&text_color=c9d1d9&bg_color=0d1117" height="165" alt="GitHub Stats" />
+      </picture>
+    </td>
+    <td align="center" valign="middle">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=YanQuan-dozzy&layout=compact&hide_border=true&title_color=03c9a9&text_color=c9d1d9&bg_color=0d1117">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=YanQuan-dozzy&layout=compact&hide_border=true&title_color=028f7a&text_color=24292f&bg_color=ffffff">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YanQuan-dozzy&layout=compact&hide_border=true&title_color=03c9a9&text_color=c9d1d9&bg_color=0d1117" height="165" alt="Top Languages" />
+      </picture>
+    </td>
+  </tr>
+</table>
+
+<!-- GitHub 动态打卡天数 Streak Stats (可选) -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=YanQuan-dozzy&show_icons=true&count_private=true&hide_border=true&title_color=03c9a9&icon_color=03c9a9&text_color=c9d1d9&bg_color=0d1117">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=YanQuan-dozzy&show_icons=true&count_private=true&hide_border=true&title_color=028f7a&icon_color=028f7a&text_color=24292f&bg_color=ffffff">
-  <img alt="YanQuan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=YanQuan-dozzy&show_icons=true&count_private=true&hide_border=true&title_color=03c9a9&icon_color=03c9a9&text_color=c9d1d9&bg_color=0d1117">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=YanQuan-dozzy&theme=dark&background=0d1117&stroke=03c9a9&ring=03c9a9&fire=03c9a9&currStreakLabel=03c9a9&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=YanQuan-dozzy&theme=clean&stroke=028f7a&ring=028f7a&fire=028f7a&currStreakLabel=028f7a&hide_border=true">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YanQuan-dozzy&theme=dark&background=0d1117&stroke=03c9a9&ring=03c9a9&fire=03c9a9&currStreakLabel=03c9a9&hide_border=true" alt="GitHub Streak" />
 </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=YanQuan-dozzy&layout=compact&hide_border=true&title_color=03c9a9&text_color=c9d1d9&bg_color=0d1117">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=YanQuan-dozzy&layout=compact&hide_border=true&title_color=028f7a&text_color=24292f&bg_color=ffffff">
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YanQuan-dozzy&layout=compact&hide_border=true&title_color=03c9a9&text_color=c9d1d9&bg_color=0d1117">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YanQuan-dozzy&theme=github_dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YanQuan-dozzy&theme=github">
-  <img alt="Profile Summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YanQuan-dozzy&theme=github_dark">
-</picture>
-
 </div>
 
-## Connect with Me 🤝 / 联系我
+---
+
+### 🤝 交流与合作 / Connect with Me
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-03C9A9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YanQuan-dozzy)
+<p>
+  非常欢迎探讨 <b>AI Agent 工具开发、网络工程（CCIE/自动化）与 AI 渗透测试</b>，期待与志同道合的开发者共同交流！<br>
+  <i>Always open to interesting conversations, ideas, and open-source collaborations.</i>
+</p>
 
-欢迎交流技术、AI Agent、网络工程与 AI 渗透测试，也期待有意思的合作。
-Always open to interesting conversations and collaboration.
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-03C9A9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YanQuan-dozzy)
 
 </div>
