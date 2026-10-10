@@ -4,18 +4,18 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=03C9A9&center=true&vCenter=true&width=720&lines=Hi%2C+I+am+YanQuan%2C+a+Software+Engineering+Learner;Building+AI-agent+tools+for+networking+%26+security;TypeScript+%C2%B7+Python+%C2%B7+Electron;Always+learning%2C+always+shipping)](https://github.com/DenverCoder1/readme-typing-svg)
 
-一名**软件工程学习者**，专注 **AI Agent 工具、网络工程自动化与 Web 安全**，喜欢把 LLM 接进真实的工程场景，做「下载即用」的本地工具。
-A software engineering learner focused on AI-agent tooling, network automation and web security — turning ideas into practical, local-first tools.
+一名**软件工程学习者**，专注 **AI Agent 工具、网络工程自动化与 AI 渗透测试**，喜欢把 LLM 接进真实的工程场景，做「下载即用」的本地工具。
+A software engineering learner focused on AI-agent tooling, network automation and AI-driven pentesting — turning ideas into practical, local-first tools.
 
 </div>
 
 ## About Me 🎓 / 关于我
 
 - 🎓 **软件工程学习者 / Software Engineering Learner** —— 在真实项目里打磨编码能力，记录自己的编程成长
-- 🧩 专注 **AI Agent 工具、网络工程自动化与 Web 安全**，把 LLM 接入真实工程场景
+- 🧩 专注 **AI Agent 工具、网络工程自动化与 AI 渗透测试**，把 LLM 接入真实工程场景
 - 🤖 热衷 **MCP / AI 工作流**：让 AI 自主完成扫描、配置下发、验证与报告生成等重复工作
 - 🌐 关注 **网络工程（路由交换 / CCIE 方向）**，喜欢做网络实验与命令行自动化
-- 🔐 **渗透测试新手 / Pentest Newbie** —— 一边学习 Web 安全与常见漏洞原理，一边把想法做成工具
+- 🔐 **AI 渗透测试新手 / AI-Driven Pentest Newbie** —— 用 Agent / LLM 驱动渗透流程：侦察 → 漏洞验证 → 攻击链 → 报告
 - 🛠️ 相信 **Local-first**：数据留在本机、隐私优先、离线可用
 - 📦 享受把想法一路做到「下载即用」的完整过程：设计 → 编码 → 打包 → 分发
 
@@ -59,26 +59,30 @@ A software engineering learner focused on AI-agent tooling, network automation a
 
 喜欢折腾 AI Agent 与自动化方案：用 **MCP** 把模型接进真实工作流，用 Figma 梳理界面、Notion 沉淀知识、Docker 管理环境，让工具的边界始终围绕「解决问题」。
 
-## Cybersecurity & Pentest 🔐 / 网络安全与渗透
+## AI-Driven Pentest 🔐 / AI 驱动的渗透测试
 
 <div align="center">
 
-[![Kali Linux](https://img.shields.io/badge/Kali_Linux-03C9A9?style=flat-square&logo=kalilinux&logoColor=white)](https://www.kali.org/)
-[![Linux](https://img.shields.io/badge/Linux-03C9A9?style=flat-square&logo=linux&logoColor=white)](https://www.kernel.org/)
-[![Wireshark](https://img.shields.io/badge/Wireshark-03C9A9?style=flat-square&logo=wireshark&logoColor=white)](https://www.wireshark.org/)
-[![Burp Suite](https://img.shields.io/badge/Burp_Suite-03C9A9?style=flat-square&logo=burpsuite&logoColor=white)](https://portswigger.net/burp)
-[![Nmap](https://img.shields.io/badge/Nmap-03C9A9?style=flat-square&logo=nmap&logoColor=white)](https://nmap.org/)
+![AI Red Teaming](https://img.shields.io/badge/AI_Red_Teaming-03C9A9?style=flat-square)
+![Agentic Pentest](https://img.shields.io/badge/Agentic_Pentest-03C9A9?style=flat-square)
+![Attack Chain](https://img.shields.io/badge/Attack_Chain_Building-03C9A9?style=flat-square)
+![Autonomous Recon](https://img.shields.io/badge/Autonomous_Recon-03C9A9?style=flat-square)
+![PoC Automation](https://img.shields.io/badge/PoC_Automation-03C9A9?style=flat-square)
+![Report Automation](https://img.shields.io/badge/Report_Automation-03C9A9?style=flat-square)
+[![OWASP](https://img.shields.io/badge/OWASP-03C9A9?style=flat-square&logo=owasp&logoColor=white)](https://owasp.org/)
+[![MCP](https://img.shields.io/badge/MCP-03C9A9?style=flat-square)](https://modelcontextprotocol.io/)
 [![Python](https://img.shields.io/badge/Python-03C9A9?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 
 </div>
 
-我是**渗透测试新手 / Pentest Newbie**：正在学习 Web 安全与常见漏洞（SQL 注入、XSS、SSRF 等）原理，边学边练，把知识落进真实项目。
+我是**渗透测试新手 / Pentest Newbie**，正在走 **用 AI Agent 做渗透测试** 这条新路线：让大模型自主完成信息收集、漏洞验证、攻击链梳理与报告生成，探索 LLM × 安全的结合，而不是停留在传统工具栈。
+An emerging-direction learner using AI agents to automate penetration testing — recon, vulnerability verification, attack-chain building and reporting.
 
 ## Current Focus 🎯 / 近期关注
 
 - 🤖 打磨 **AI Agent / MCP** 工具，让 AI 自主完成扫描、配置下发、验证与报告生成
 - 🌐 学习 **网络工程（路由交换 / CCIE 方向）** 与网络自动化
-- 🔐 作为**渗透新手**持续学习 Web 安全与渗透测试
+- 🔐 用 **AI Agent 做渗透测试**：自动化侦察、漏洞验证、攻击链构建与报告生成
 - 🧱 打磨桌面端工程实践：安全 IPC、进程隔离、打包与自动更新
 - 🌱 学习新工具、新框架，把有趣的想法尽快做成可用的产品
 - ✍️ 记录开发中的踩坑与经验，沉淀自己的知识体系
@@ -113,7 +117,7 @@ A software engineering learner focused on AI-agent tooling, network automation a
 
 [![GitHub](https://img.shields.io/badge/GitHub-03C9A9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YanQuan-dozzy)
 
-欢迎交流技术、AI Agent、网络工程与 Web 安全，也期待有意思的合作。
+欢迎交流技术、AI Agent、网络工程与 AI 渗透测试，也期待有意思的合作。
 Always open to interesting conversations and collaboration.
 
 </div>
