@@ -16,7 +16,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Actively_Building-03C9A9?style=flat-square&logo=githubsponsors&logoColor=white" alt="Status" />
   <img src="https://img.shields.io/badge/Focus-AI_Agent_%26_Network_Security-0a192f?style=flat-square&logo=target&logoColor=03C9A9" alt="Focus" />
-  <img src="https://komarev.com/ghpvc/?username=YanQuan-dozzy&label=Profile%20Views&color=03c9a9&style=flat-square" alt="Views" />
+  <a href="https://github.com/YanQuan-dozzy"><img src="https://img.shields.io/github/followers/YanQuan-dozzy?style=flat-square&logo=github&color=03C9A9&label=Followers" alt="Followers" /></a>
 </p>
 
 </div>
@@ -148,11 +148,10 @@
   </tr>
 </table>
 
-<!-- GitHub 动态打卡天数 Streak Stats (可选) -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=YanQuan-dozzy&theme=dark&background=0d1117&stroke=03c9a9&ring=03c9a9&fire=03c9a9&currStreakLabel=03c9a9&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=YanQuan-dozzy&theme=clean&stroke=028f7a&ring=028f7a&fire=028f7a&currStreakLabel=028f7a&hide_border=true">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YanQuan-dozzy&theme=dark&background=0d1117&stroke=03c9a9&ring=03c9a9&fire=03c9a9&currStreakLabel=03c9a9&hide_border=true" alt="GitHub Streak" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YanQuan-dozzy&theme=github_dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YanQuan-dozzy&theme=github">
+  <img alt="Profile Summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YanQuan-dozzy&theme=github_dark">
 </picture>
 
 </div>
