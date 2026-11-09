@@ -127,32 +127,40 @@
 
 ### 📊 GitHub 仪表盘 / Statistics
 
+<!-- 静态卡片说明：以下图片是本仓库 assets/ 下的纯静态 SVG，由 GitHub 自身托管。
+     数据由 scripts/generate_stats.py 通过 GitHub API 生成，运行该脚本即可刷新，
+     也可启用 .github/workflows/update-stats.yml 让 GitHub Actions 每天自动刷新。
+     不使用 *.vercel.app 之类的第三方动态渲染服务，因此不会因对方服务宕机 / API 限流 / 网络拦截而挂掉；
+     即使刷新失败，上一次提交的 SVG 依然能正常显示。 -->
+
 <div align="center">
 
 <table border="0">
   <tr>
     <td align="center" valign="middle">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=YanQuan-dozzy&show_icons=true&count_private=true&hide_border=true&title_color=03c9a9&icon_color=03c9a9&text_color=c9d1d9&bg_color=0d1117">
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=YanQuan-dozzy&show_icons=true&count_private=true&hide_border=true&title_color=028f7a&icon_color=028f7a&text_color=24292f&bg_color=ffffff">
-        <img src="https://github-readme-stats.vercel.app/api?username=YanQuan-dozzy&show_icons=true&count_private=true&hide_border=true&title_color=03c9a9&icon_color=03c9a9&text_color=c9d1d9&bg_color=0d1117" height="165" alt="GitHub Stats" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YanQuan-dozzy/YanQuan-dozzy/main/assets/github-stats-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YanQuan-dozzy/YanQuan-dozzy/main/assets/github-stats-light.svg">
+        <img src="https://raw.githubusercontent.com/YanQuan-dozzy/YanQuan-dozzy/main/assets/github-stats-light.svg" height="180" alt="GitHub Stats" />
       </picture>
     </td>
     <td align="center" valign="middle">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=YanQuan-dozzy&layout=compact&hide_border=true&title_color=03c9a9&text_color=c9d1d9&bg_color=0d1117">
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=YanQuan-dozzy&layout=compact&hide_border=true&title_color=028f7a&text_color=24292f&bg_color=ffffff">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YanQuan-dozzy&layout=compact&hide_border=true&title_color=03c9a9&text_color=c9d1d9&bg_color=0d1117" height="165" alt="Top Languages" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YanQuan-dozzy/YanQuan-dozzy/main/assets/top-langs-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YanQuan-dozzy/YanQuan-dozzy/main/assets/top-langs-light.svg">
+        <img src="https://raw.githubusercontent.com/YanQuan-dozzy/YanQuan-dozzy/main/assets/top-langs-light.svg" height="180" alt="Top Languages" />
       </picture>
     </td>
   </tr>
 </table>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YanQuan-dozzy&theme=github_dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YanQuan-dozzy&theme=github">
-  <img alt="Profile Summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YanQuan-dozzy&theme=github_dark">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YanQuan-dozzy/YanQuan-dozzy/main/assets/profile-details-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YanQuan-dozzy/YanQuan-dozzy/main/assets/profile-details-light.svg">
+  <img alt="Profile Summary" src="https://raw.githubusercontent.com/YanQuan-dozzy/YanQuan-dozzy/main/assets/profile-details-light.svg" width="700">
 </picture>
+
+<sub>Static SVGs hosted in this repository · no third-party service required</sub>
 
 </div>
 

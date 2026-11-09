@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="165" viewBox="0 0 700 165" role="img" aria-label="Profile Snapshot">
+<rect x="0" y="0" width="700" height="165" rx="8" fill="#ffffff"/>
+<text x="22" y="31" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="17" font-weight="700" fill="#028f7a">Profile Snapshot</text>
+<line x1="22" y1="42" x2="678" y2="42" stroke="#d0d7de" stroke-width="1"/>
+<text x="87.6" y="90" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="19" font-weight="700" fill="#03c9a9">2</text>
+<text x="87.6" y="112" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="10" fill="#57606a">Followers</text>
+<line x1="153.2" y1="62" x2="153.2" y2="118" stroke="#d0d7de" stroke-width="1"/>
+<text x="218.8" y="90" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="19" font-weight="700" fill="#03c9a9">8</text>
+<text x="218.8" y="112" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="10" fill="#57606a">Public Repos</text>
+<line x1="284.4" y1="62" x2="284.4" y2="118" stroke="#d0d7de" stroke-width="1"/>
+<text x="350.0" y="90" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="19" font-weight="700" fill="#03c9a9">78</text>
+<text x="350.0" y="112" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="10" fill="#57606a">Total Stars</text>
+<line x1="415.6" y1="62" x2="415.6" y2="118" stroke="#d0d7de" stroke-width="1"/>
+<text x="481.2" y="90" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="19" font-weight="700" fill="#03c9a9">3</text>
+<text x="481.2" y="112" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="10" fill="#57606a">Pull Requests</text>
+<line x1="546.8" y1="62" x2="546.8" y2="118" stroke="#d0d7de" stroke-width="1"/>
+<text x="612.4" y="90" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="19" font-weight="700" fill="#03c9a9">1</text>
+<text x="612.4" y="112" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="10" fill="#57606a">Issues</text>
+<text x="22" y="145" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="10" fill="#57606a">Member since 2026-04-13  |  333 commits</text>
+<text x="678" y="145" text-anchor="end" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="9" fill="#57606a">static SVG - updated 2026-11-09</text>
+</svg>
