@@ -116,12 +116,6 @@ def fetch_data():
 
     prs = search_count("author:%s type:pr" % USERNAME)
     issues = search_count("author:%s type:issue" % USERNAME)
-    commits = None
-    try:
-        commits = api("/search/commits", {"q": "author:" + USERNAME, "per_page": 1},
-                      {"Accept": "application/vnd.github+json"})["total_count"]
-    except Exception as exc:  # noqa: BLE001
-        print("commits metric unavailable: %s" % exc, file=sys.stderr)
 
     return {
         "user": user,
@@ -135,7 +129,6 @@ def fetch_data():
         "gists": user.get("public_gists", 0),
         "prs": prs,
         "issues": issues,
-        "commits": commits,
         "languages": languages,
         "created_at": (user.get("created_at") or "")[:10],
         "updated": datetime.now(timezone.utc).strftime("%Y-%m-%d"),
@@ -253,9 +246,11 @@ def svg_profile(data, theme):
             % (cx, FONT, theme["accent"], fmt(value),
                cx, FONT, theme["muted"], esc(label))
         )
+    # The commit count is deliberately not shown: /search/commits returns a
+    # different total depending on the caller's token scope (a personal token
+    # sees every public repo, the repo-scoped Actions token sees far fewer), so
+    # the number would flip every time the scheduled job ran.
     note = "Member since %s" % (data["created_at"] or "—")
-    if data["commits"] is not None:
-        note += "  |  %s commits" % fmt(data["commits"])
     out.append('<text x="22" y="145" font-family="%s" font-size="10" fill="%s">%s</text>\n'
                % (FONT, theme["muted"], esc(note)))
     out.append(footer("static SVG - updated " + data["updated"], theme, 145, w))
