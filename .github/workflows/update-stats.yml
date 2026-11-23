@@ -1,0 +1,54 @@
+name: Update profile stats
+
+# Refreshes the self-hosted static SVG stat cards in assets/.
+# The cards are plain files committed to this repo, so the README keeps working
+# even if this workflow fails: the previously committed SVG stays in place.
+
+on:
+  schedule:
+    # Daily at 03:17 UTC (11:17 Asia/Shanghai). Off the hour to avoid the
+    # busiest slot of GitHub's scheduler.
+    - cron: "17 3 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/generate_stats.py"
+      - ".github/workflows/update-stats.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-stats
+  cancel-in-progress: true
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Generate static SVG stat cards
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          STATS_USERNAME: YanQuan-dozzy
+        run: python scripts/generate_stats.py --out assets
+
+      - name: Commit refreshed cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets
+          if git diff --staged --quiet; then
+            echo "Stat cards already up to date - nothing to commit."
+          else
+            git commit -m "chore(stats): refresh static SVG cards"
+            git push
+          fi
